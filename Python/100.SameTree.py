@@ -1,7 +1,7 @@
-#Time Complexity:   O(n)
-#Space Complexity:  O(n)
-#Speed: 98.83%
-#Memory: 13.23%
+# Time Complexity:   O(n)
+# Space Complexity:  O(n)
+# Speed: 98.83%
+# Memory: 13.23%
 
 # Definition for a binary tree node.
 # class TreeNode:
